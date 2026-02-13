@@ -1,0 +1,16 @@
+{
+  "name": "Aurea - Investimentos Inteligentes",
+  "short_name": "Aurea",
+  "description": "Plataforma inteligente para investidores brasileiros",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF8",
+  "theme_color": "#D4A017",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

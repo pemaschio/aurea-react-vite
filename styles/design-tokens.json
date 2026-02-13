@@ -1,0 +1,116 @@
+{
+  "brand": {
+    "name": "Aurea",
+    "tagline": "Investimentos Inteligentes",
+    "description": "Plataforma fintech para investidores autodidatas brasileiros"
+  },
+  "colors": {
+    "light": {
+      "primary": "#D4A017",
+      "primary-hover": "#B8860B",
+      "primary-light": "#F5E6A3",
+      "primary-foreground": "#FFFFFF",
+      "accent": "#1A1A2E",
+      "accent-hover": "#2D2D44",
+      "accent-light": "#E8E8ED",
+      "success": "#10B981",
+      "success-light": "#D1FAE5",
+      "error": "#EF4444",
+      "error-light": "#FEE2E2",
+      "warning": "#F59E0B",
+      "warning-light": "#FEF3C7",
+      "info": "#3B82F6",
+      "info-light": "#DBEAFE",
+      "background": "#FAFAF8",
+      "surface": "#FFFFFF",
+      "card": "#FFFFFF",
+      "text": "#1A1A2E",
+      "text-secondary": "#4B5563",
+      "text-muted": "#6B7280",
+      "border": "#E5E7EB",
+      "border-light": "#F3F4F6",
+      "sidebar": "#1A1A2E",
+      "sidebar-hover": "#2D2D44",
+      "sidebar-text": "#E5E7EB",
+      "sidebar-text-active": "#F5E6A3"
+    },
+    "dark": {
+      "primary": "#E5B832",
+      "primary-hover": "#D4A017",
+      "primary-light": "#3D3520",
+      "primary-foreground": "#1A1A2E",
+      "accent": "#8B5CF6",
+      "accent-hover": "#7C3AED",
+      "success": "#34D399",
+      "error": "#F87171",
+      "warning": "#FBBF24",
+      "info": "#60A5FA",
+      "background": "#0F0F1A",
+      "surface": "#1A1A2E",
+      "card": "#1E1E35",
+      "text": "#F3F4F6",
+      "text-secondary": "#D1D5DB",
+      "text-muted": "#9CA3AF",
+      "border": "#2D2D44",
+      "border-light": "#1E1E35",
+      "sidebar": "#0A0A14",
+      "sidebar-hover": "#1A1A2E",
+      "sidebar-text": "#D1D5DB",
+      "sidebar-text-active": "#E5B832"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "sans": "\"Inter\", system-ui, -apple-system, sans-serif",
+      "heading": "\"Inter\", system-ui, -apple-system, sans-serif",
+      "mono": "\"JetBrains Mono\", \"Fira Code\", monospace"
+    },
+    "fontSize": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem"
+    },
+    "fontWeight": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    }
+  },
+  "spacing": {
+    "xs": "0.25rem",
+    "sm": "0.5rem",
+    "md": "0.75rem",
+    "lg": "1rem",
+    "xl": "1.5rem",
+    "2xl": "2rem",
+    "3xl": "3rem",
+    "4xl": "4rem"
+  },
+  "borderRadius": {
+    "sm": "0.25rem",
+    "md": "0.5rem",
+    "lg": "0.75rem",
+    "xl": "1rem",
+    "full": "9999px"
+  },
+  "shadows": {
+    "sm": "0 1px 2px rgba(0, 0, 0, 0.05)",
+    "card": "0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04)",
+    "card-hover": "0 4px 12px rgba(0, 0, 0, 0.1)",
+    "lg": "0 8px 24px rgba(0, 0, 0, 0.12)",
+    "gold": "0 4px 14px rgba(212, 160, 23, 0.25)"
+  },
+  "breakpoints": {
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  }
+}

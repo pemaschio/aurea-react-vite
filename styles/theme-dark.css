@@ -1,0 +1,49 @@
+[data-theme="dark"] {
+  /* Primary - Dourado Aurea (mais brilhante) */
+  --color-primary: #E5B832;
+  --color-primary-hover: #D4A017;
+  --color-primary-light: #3D3520;
+  --color-primary-foreground: #1A1A2E;
+
+  /* Accent */
+  --color-accent: #8B5CF6;
+  --color-accent-hover: #7C3AED;
+  --color-accent-light: #2D2044;
+
+  /* Semantic */
+  --color-success: #34D399;
+  --color-success-light: #064E3B;
+  --color-error: #F87171;
+  --color-error-light: #7F1D1D;
+  --color-warning: #FBBF24;
+  --color-warning-light: #78350F;
+  --color-info: #60A5FA;
+  --color-info-light: #1E3A5F;
+
+  /* Surfaces */
+  --color-background: #0F0F1A;
+  --color-surface: #1A1A2E;
+  --color-card: #1E1E35;
+
+  /* Text */
+  --color-text: #F3F4F6;
+  --color-text-secondary: #D1D5DB;
+  --color-text-muted: #9CA3AF;
+
+  /* Borders */
+  --color-border: #2D2D44;
+  --color-border-light: #1E1E35;
+
+  /* Sidebar */
+  --color-sidebar: #0A0A14;
+  --color-sidebar-hover: #1A1A2E;
+  --color-sidebar-text: #D1D5DB;
+  --color-sidebar-text-active: #E5B832;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
+  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-gold: 0 4px 14px rgba(229, 184, 50, 0.2);
+}

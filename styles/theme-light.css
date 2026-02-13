@@ -1,0 +1,61 @@
+:root {
+  /* Primary - Dourado Aurea */
+  --color-primary: #D4A017;
+  --color-primary-hover: #B8860B;
+  --color-primary-light: #F5E6A3;
+  --color-primary-foreground: #FFFFFF;
+
+  /* Accent - Azul Noturno */
+  --color-accent: #1A1A2E;
+  --color-accent-hover: #2D2D44;
+  --color-accent-light: #E8E8ED;
+
+  /* Semantic */
+  --color-success: #10B981;
+  --color-success-light: #D1FAE5;
+  --color-error: #EF4444;
+  --color-error-light: #FEE2E2;
+  --color-warning: #F59E0B;
+  --color-warning-light: #FEF3C7;
+  --color-info: #3B82F6;
+  --color-info-light: #DBEAFE;
+
+  /* Surfaces */
+  --color-background: #FAFAF8;
+  --color-surface: #FFFFFF;
+  --color-card: #FFFFFF;
+
+  /* Text */
+  --color-text: #1A1A2E;
+  --color-text-secondary: #4B5563;
+  --color-text-muted: #6B7280;
+
+  /* Borders */
+  --color-border: #E5E7EB;
+  --color-border-light: #F3F4F6;
+
+  /* Sidebar */
+  --color-sidebar: #1A1A2E;
+  --color-sidebar-hover: #2D2D44;
+  --color-sidebar-text: #E5E7EB;
+  --color-sidebar-text-active: #F5E6A3;
+
+  /* Typography */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-heading: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --shadow-gold: 0 4px 14px rgba(212, 160, 23, 0.25);
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-full: 9999px;
+}
